@@ -7,13 +7,15 @@
 
 ## Overview
 
+![image](https://github.com/user-attachments/assets/3e8f7dbc-946a-48d1-bd0a-b691eefd81a7)
 
- ![image](https://github.com/user-attachments/assets/6f3d62dd-fff6-4ffe-aa5e-4224e9c40e16)
+ 
 
  ## Monthly_CC_Analysis
 
- 
- ![image](https://github.com/user-attachments/assets/7a47e11e-e1ea-4bdd-b3d2-091a65846ec0)
+ ![image](https://github.com/user-attachments/assets/991a0d6a-5123-425a-a3e9-fa31a2d0506e)
+
+
 
 ## Problem statement
 
@@ -32,24 +34,21 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Use additional data based on your research to support your recommendations.
 
   ## Things that I learned from this Project
-- I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
+- I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation).
 
 
-## Some Important insights from the Dashboard
+## Some insights from the Dashboard
 
-- Mumbai ranks top among cities in terms of overall average monthly spending of 27.8 Million ₹, while Hyderabad has the lowest average monthly spending of 10.9 Million ₹.
-- Overall Income Utilization % is highest in Mumbai with 49.9% and lowest in Chennai with 30.2%.
-- Overall Credit card spending is highest in Mumbai with 11.2 Million ₹ and lowest in Hyderabad with 4.4 Million ₹.
-- Credit card, with a 40.6% share in overall average monthly spending, is the most popular payment mode, followed by UPI with a 26.5% share and Debit card with a 22.5% share.
-- Salaried IT employees have the highest overall average monthly spending of 39.4 Million ₹, followed by Business owners with 14.2 Million ₹, and Freelancers with 12.2 Million ₹.
-- Overall Income Utilization % is higher in male customers with 43.2% compared to female customers with 38.5%.
-- The 35-45 age group has the highest Overall Income Utilization % at 45.3%, followed by the 25-34 age group with 42.3%, and the 21-24 age group with 39.4%. However, the Overall average monthly spending is highest in the 25-34 age group due to a higher number of people from this group in this dataset.
-- Overall monthly spending, Income Utilization %, and Credit card spending are higher in August and September compared to the rest of the months.
+- Mumbai ranks top among cities in terms of overall average monthly spending of ₹28.67 Million, while Hyderabad has the lowest average monthly spending of ₹11.25 Million.
+- Overall Income Utilization % is highest in Mumbai with 51% and lowest in Chennai with 31%.
+- Overall Credit card spends is ₹36.05 Million of which the highest spends occurred in Mumbai with ₹11.6 Million and lowest in Hyderabad with ₹4.6 Million.
+- Credit card, with 41% share in overall average monthly spending, is the most popular payment mode used, followed by UPI with 27% share and Debit card with 23% share.
+- Salaried IT employees have the highest overall average monthly spending of ₹40.62 Million, followed by Business owners with ₹14.67 Million, and lowest by Governmnent Employee with ₹6.02 Million.
+- Overall Income Utilization % is higher in male customers with 44% compared to female customers with 40%.
+- The 35-45 age group has the highest Overall Income Utilization % at 47%, followed by the 25-34 age group with 44%, and the 21-24 age group with 41%. However, the Overall average monthly spending is highest in the 25-34 age group as belongs to younger generation who spend more compared to older generation from this group in this dataset.
+- Overall monthly spending, Income Utilization %, and Credit card spending are higher in August and September compared to the other months.
 - From May to October, the overall average monthly spending on the Bills category is the highest, followed by the Groceries and Electronics categories.
-- Overall average monthly credit card spending is highest in Bills, followed by Electronics, and Health and wellness categories.
-- Overall average monthly credit card spending is highest in the 25-34 age group with 15.3 Million ₹, followed by the 35-45 age group with 11.9 Million ₹.
-- Overall monthly spending is higher for male customers at 67.3% compared to female customers at 32.7%.
-- Overall monthly spending is higher for married customers, accounting for around 80%, compared to single customers with 20%.
+- Overall monthly spending is higher for male customers at ₹59.52 Millions compared to female customers at ₹28.96 Millions.
 - Spending patterns in various categories and through different payment types differ based on age group, gender, and marital status.
 - ► For the 25-34 age group,
 - males, whether single or married, have the top three monthly spending categories: Bills, Groceries, and Electronics.
@@ -58,9 +57,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - males, whether single or married, have the top three monthly spending categories: Bills, Groceries, and Electronics.
 - Females, whether single or married, have the top three monthly spending categories: Health and wellness, Bills, and Groceries.
 
-
 ## Potential Decisions
-
 
 1. **Tailored Credit Card Offers:** Develop customized credit card offers for the 25-34 age group, focusing on their top spending categories such as Bills, Groceries, and Electronics. This can attract a younger demographic and encourage higher credit card usage.
 
