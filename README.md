@@ -34,8 +34,6 @@ You are a data analyst who has been provided with sample data to work on the fol
   ## Things that I learned from this Project
 - I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
 
-## Some Key Metrics
-
 
 ## Some Important insights from the Dashboard
 
