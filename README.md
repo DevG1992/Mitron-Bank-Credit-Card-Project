@@ -3,7 +3,7 @@
   
 [Linkedin] https://www.linkedin.com/in/dev-gusain-68a7a7228
 
-[Github] 
+[Github] https://github.com/DevG1992/Mitron-Bank-Credit-Card-Project/tree/main
 
 ## Overview
 
