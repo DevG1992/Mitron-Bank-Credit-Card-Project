@@ -33,7 +33,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Use your dashboard in the presentation along with the deck.
 - Use additional data based on your research to support your recommendations.
 
-  ## Things that I learned from this Project
+  ## New Things that I learned from this Project
 - I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation).
 
 
